@@ -1,0 +1,106 @@
+{
+    "list": [
+    {
+        "sino":1,
+        "name":"Coffee powder",
+        "quantity":2,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"Nescafe coffee"
+
+
+    },
+    {
+        "sino":2,
+        "name":"Milk",
+        "quantity":6,
+        "unit":"Packets",
+        "department":"Grocery",
+        "notes":"Milma milk"
+
+
+    },
+    {
+        "sino":3,
+        "name":"Watermelon",
+        "quantity":1,
+        "unit":"Kilo gram",
+        "department":"Fruits",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":4,
+        "name":"Beans",
+        "quantity":1,
+        "unit":"Kilo gram",
+        "department":"Vegetables",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":5,
+        "name":"Biscuits",
+        "quantity":2,
+        "unit":"Packets",
+        "department":"Snacks",
+        "notes":"Hide N Seek"
+
+
+    },
+    {
+        "sino":6,
+        "name":"Eggs",
+        "quantity": 10,
+        "unit":"Number",
+        "department":"Grocery",
+        "notes":"White eggs"
+
+
+    },
+    {
+        "sino":7,
+        "name":"Soaps",
+        "quantity":2,
+        "unit":"Packets",
+        "department":"Body Care",
+        "notes":"Dove"
+
+
+    },
+    {
+        "sino":8,
+        "name":"Toothpaste",
+        "quantity":1,
+        "unit":"Number",
+        "department":"Hygiene",
+        "notes":"Colgate"
+
+
+    },
+
+    {
+        "sino":9,
+        "name":"Body Lotion",
+        "quantity":2,
+        "unit":"Number",
+        "department":"Body Care",
+        "notes":"Vaseline"
+
+
+    },
+    {
+        "sino":10,
+        "name":"Bar Soap",
+        "quantity":1,
+        "unit":"Packets",
+        "department":"Cleaning",
+        "notes":"Sunlight"
+
+
+    }
+   
+]
+}
